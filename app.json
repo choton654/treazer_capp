@@ -1,0 +1,12 @@
+{
+  "name": "treazer_frontend",
+  "displayName": "treazer_frontend",
+  "expo": {
+    "name": "treazer_frontend",
+    "slug": "treazer_frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "assets/images/*"
+    ]
+  }
+}
